@@ -247,4 +247,4 @@ Streamlit will automatically open `http://localhost:8502` in your default browse
 
 **Kavana Shree V**
 IBM Internship — Data Analytics With AI
-Food Delivery Customer Preference Analysis Project
+Customer Food Product & Preference Analysis Dashboard
